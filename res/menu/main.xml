@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/origens"
+        android:title="@string/origens" />
+
+    <item
+        android:id="@+id/destinos"
+        android:title="@string/destinos" />
+    
+    <item
+        android:id="@+id/linhas"
+        android:title="@string/linhas" />
+    
+    <item
+        android:id="@+id/itinerarios"
+        android:title="@string/itinerarios" />
+    
+    <item
+        android:id="@+id/saidas"
+        android:title="@string/saidas" />
+    
+    <item
+        android:id="@+id/sobre"
+        android:title="@string/sobre" />
+
+    <item
+        android:id="@+id/sair"
+        android:title="@string/sair" />
+
+</menu>

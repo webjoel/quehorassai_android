@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Que Horas Sai??</string>
+    <string name="sair">Sair</string>
+    <string name="sobre">Sobre</string>
+    <string name="destinos">Destinos</string>
+    <string name="destino">Destino</string>
+    <string name="origens">Origens</string>
+    <string name="origem">Origem</string>
+    <string name="linhas">Linhas</string>
+    <string name="linha">Linha</string>
+    <string name="itinerarios">Itinerários</string>
+    <string name="itinerario">Itinerário</string>
+    <string name="saidas">Saídas</string>
+    <string name="saida">Saída</string>
+    <string name="gravar">Gravar</string>
+    <string name="excluir">Excluir</string>
+    <string name="novo">Novo</string>
+
+</resources>

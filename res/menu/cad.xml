@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<item
+        android:id="@+id/gravar"
+        android:title="@string/gravar" />
+    
+    <item
+        android:id="@+id/excluir"
+        android:title="@string/excluir" />
+    
+</menu>
